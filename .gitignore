@@ -1,0 +1,8 @@
+# git ignore
+
+# Node.js
+node_modules/
+
+# Vite Press
+docs/.vitepress/dist  
+docs/.vitepress/cache
