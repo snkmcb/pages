@@ -6,7 +6,7 @@ export default defineConfig({
   // GitHubPages への展開
   // https://qiita.com/watame/items/42d2966c4be3cb4b052c
   // https://vitepress.dev/guide/deploy#setting-a-public-base-path
-  base: "/snkmcb.github.io/",
+  base: "/github-pages-sample/",
 
   title: "Test Site",
   description: "Test Site",
