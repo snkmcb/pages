@@ -5,7 +5,7 @@ export default defineConfig({
   
   // GitHubPages への展開
   // https://qiita.com/watame/items/42d2966c4be3cb4b052c
-  base: "/_penguinnote/",
+  base: "/snkmcb.github.io/",
   
   title: "Penguin Note",
   description: "A Portfolio Site",

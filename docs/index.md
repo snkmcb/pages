@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Penguin Note"
-  text: "A Portfolio Site"
+  name: "Test Site"
+  text: "Test Site"
   tagline: My great project tagline
   actions:
     - theme: brand
