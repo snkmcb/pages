@@ -7,7 +7,7 @@ export default defineConfig({
   // https://qiita.com/watame/items/42d2966c4be3cb4b052c
   base: "/snkmcb.github.io/",
   
-  title: "Penguin Note",
+  title: "Test Site",
   description: "A Portfolio Site",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
