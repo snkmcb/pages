@@ -5,7 +5,7 @@ export default defineConfig({
   
   // GitHubPages への展開
   // https://qiita.com/watame/items/42d2966c4be3cb4b052c
-  base: "/snkmcb.github.io/docs/",
+  base: "/docs/",
 
   title: "Test Site",
   description: "Test Site",
