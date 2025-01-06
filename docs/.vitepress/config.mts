@@ -6,9 +6,9 @@ export default defineConfig({
   // GitHubPages への展開
   // https://qiita.com/watame/items/42d2966c4be3cb4b052c
   base: "/snkmcb.github.io/",
-  
+
   title: "Test Site",
-  description: "A Portfolio Site",
+  description: "Test Site",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
