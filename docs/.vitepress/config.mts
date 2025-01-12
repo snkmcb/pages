@@ -15,7 +15,12 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about'},
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Examples', link: '/markdown-examples' },
+      // Pull Down は同型の辞書構造を items 配列内にネストすることで得られる
+      { text: 'Pulldown', items:[
+        {text: 'test1', link: '/about'}, 
+        {text: 'test2', link: '/about'}
+      ]}
     ],
 
     // https://vitepress.dev/reference/default-theme-search
