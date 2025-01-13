@@ -10,6 +10,15 @@ export default defineConfig({
 
   title: "Test Site",
   description: "Test Site",
+  
+  // トグルスイッチの非表示
+  appearance: false,
+  //appearance: {
+  //  // light mode がデフォルトになるように修正
+  //  boolean: false,
+  //  initialValue: 'undefined'
+  //},
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -41,6 +50,10 @@ export default defineConfig({
     socialLinks: [
       //{ icon: 'github', link: 'https://github.com/vuejs/vitepress' }
       { icon: 'github', link: 'https://github.com/snkmcb' }
-    ]
+    ],
+
+    footer: {
+      copyright: 'Copyright © 2025-present Piggy Penguin',
+    },
   }
 })
