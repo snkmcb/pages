@@ -23,3 +23,13 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
+
+
+<script setup>
+  // 拡張要素
+  // .vue ファイルをインポートすることが出来る
+</script>
+
+<div class="home">
+<!-- 読み込んだ vue コンポーネントを突っ込むことが出来る -->
+</div>
