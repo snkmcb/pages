@@ -53,7 +53,7 @@ export default defineConfig({
     ],
 
     footer: {
-      copyright: 'Copyright © 2025-present Piggy Penguin',
+      copyright: 'Copyright © 2025-present snkmcb',
     },
   }
 })
